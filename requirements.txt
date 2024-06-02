@@ -1,0 +1,6 @@
+beautifulsoup4
+img2pdf
+requests
+pillow
+matplotlib
+tqdm
